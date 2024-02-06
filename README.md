@@ -11,27 +11,27 @@ Neutral Position - 60 degrees\
 Leg Upwards - Increase degrees\
 Leg Downwards - Decrease degrees
 
-<ins>Left Leg Top Servo (lAT)</ins>**\
+<ins><strong>Left Leg Top Servo (lAT)</strong></ins>**\
 Neutral Position - 105 degrees\
 Leg Upwards - Decrease degrees\
 Leg Downwards - Increase degrees
 
-<ins>**Right Leg Bottom Servo (RAB)**</ins>\
+<ins><strong>Right Leg Bottom Servo (RAB)</strong></ins>\
 Neutral Position - 90 degrees\
 Leg Upwards - Increase degrees\
 Leg Downwards - Decrease degrees
 
-<ins>**Left Leg Bottom Servo (lAB)**</ins>\
+<ins><strong>Left Leg Bottom Servo (lAB)</strong></ins>\
 Neutral Position - 95 degrees\
 Leg Upwards - Decrease degrees\
 Leg Downwards - Increase degrees
 
-<ins>**Pinion Servo (mL)**</ins>\
+<ins><strong>Pinion Servo (mL)</strong></ins>\
 Neutral Position - 107 degrees\
 Leg Upwards - Decrease degrees\
 Leg Downwards - Increase degrees
 
-<ins>**Support Foot**</ins>\
+<ins><strong>Support Foot</strong></ins>\
 Neutral Position - 90 degrees\
 Rotation angle between 20 degrees and 180 degrees
 
