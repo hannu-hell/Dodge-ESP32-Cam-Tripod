@@ -3,15 +3,15 @@ Dodge is an ESP32 Cam based novel tripod design.  Feel free to check out full bu
 
 ## Setting Neutral Position for all six servos
 You need to get the neutral positions for all servos set before uploading the code for Dodge to move correctly.  I have included an image with Dodge in its neutral position and the angles the servos should be at those positions.
-Once done with setting the neutral angles the rest of the moves by Dodge will be calculated correctly.\\
+Once done with setting the neutral angles the rest of the moves by Dodge will be calculated correctly.\
 
 
-<ins>Right Leg Top Servo (rAT)<\ins>\
+<ins>Right Leg Top Servo (rAT)</ins>\
 Neutral Position - 60 degrees\
 Leg Upwards - Increase degrees\
 Leg Downwards - Decrease degrees\\
 
-<ins>Support Foot<\ins>
+<ins>Support Foot</ins>
 Neutral Position - 90 degrees\
 Rotation angle between 20 degrees and 180 degrees\
 
