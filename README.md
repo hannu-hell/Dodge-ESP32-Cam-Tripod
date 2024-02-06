@@ -6,12 +6,12 @@ You need to get the neutral positions for all servos set before uploading the co
 Once done with setting the neutral angles the rest of the moves by Dodge will be calculated correctly.
 
 
-<ins>**Right Leg Top Servo (rAT)**</ins>\
+<ins><strong>Right Leg Top Servo (rAT)</strong></ins>\
 Neutral Position - 60 degrees\
 Leg Upwards - Increase degrees\
 Leg Downwards - Decrease degrees
 
-<ins>**Left Leg Top Servo (lAT)**</ins>**\
+<ins>Left Leg Top Servo (lAT)</ins>**\
 Neutral Position - 105 degrees\
 Leg Upwards - Decrease degrees\
 Leg Downwards - Increase degrees
