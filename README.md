@@ -3,23 +3,18 @@ Dodge is an ESP32 Cam based novel tripod design.  Feel free to check out full bu
 
 ## Setting Neutral Position for all six servos
 You need to get the neutral positions for all servos set before uploading the code for Dodge to move correctly.  I have included an image with Dodge in its neutral position and the angles the servos should be at those positions.
-Once done with setting the neutral angles the rest of the moves by Dodge will be calculated correctly.
+Once done with setting the neutral angles the rest of the moves by Dodge will be calculated correctly.\\
 
-|--------------------------------------------------------------------------------------------------------------|
-|    Servo Description         |   Neutral Position    |       Leg Upwards      |       Leg Downwards          |
-|------------------------------|-------------------------------------------------------------------------------|
-|Right Leg Top Servo (rAT)     |         60            |     increase degrees   |     decrease degrees         |
-|------------------------------|-----------------------|------------------------|------------------------------| 
-|Left Leg Top Servo (lAT)      |        105            |     decrease degrees   |     increase degrees         |
-|------------------------------|-----------------------|------------------------|------------------------------|
-|Right Leg Bottom Servo (rAB)  |         90            |     increase degrees   |     decrease degrees         |
-|------------------------------|-----------------------|------------------------|------------------------------| 
-|Left Leg Bottom Servo (lAB)   |         95            |     decrease degrees   |     increase degrees         |
-|------------------------------|-----------------------|------------------------|------------------------------|
-|Pinion Servo (mL)             |         107           |     decrease degrees   |     increase degrees         |
-|------------------------------|-----------------------|------------------------|------------------------------| 
-|Support Foot Servo (bS)       |         90            |    Rotation angle between 20 degrees and 180 degrees  |
-|------------------------------|-----------------------|------------------------|------------------------------|   
+
+<ins>Right Leg Top Servo (rAT)<\ins>\
+Neutral Position - 60 degrees\
+Leg Upwards - Increase degrees\
+Leg Downwards - Decrease degrees\\
+
+<ins>Support Foot<\ins>
+Neutral Position - 90 degrees\
+Rotation angle between 20 degrees and 180 degrees\
+
 
 ## Uploading Code
 When uploading code to the ESP32 Cam module you need the ESP32 Cam-MB which has the boot loader to upload code. You need to press the IO 0 button on the ESP32 Cam-MB and then the RST button on the ESP32 module to put the board to accept code uploads. Apart from that you will also need to download ESP32Servo library by Kevin Harrington/John K. Bennett from the Library manager in Arduino IDE.
