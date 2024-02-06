@@ -7,31 +7,37 @@ Once done with setting the neutral angles the rest of the moves by Dodge will be
 
 
 <ins><strong>Right Leg Top Servo (rAT)</strong></ins>\
+GPIO Pin - IO 12\
 Neutral Position - 60 degrees\
 Leg Upwards - Increase degrees\
 Leg Downwards - Decrease degrees
 
 <ins><strong>Left Leg Top Servo (lAT)</strong></ins>\
+GPIO Pin - IO 13\
 Neutral Position - 105 degrees\
 Leg Upwards - Decrease degrees\
 Leg Downwards - Increase degrees
 
-<ins><strong>Right Leg Bottom Servo (RAB)</strong></ins>\
+<ins><strong>Right Leg Bottom Servo (rAB)</strong></ins>\
+GPIO Pin - IO 14\
 Neutral Position - 90 degrees\
 Leg Upwards - Increase degrees\
 Leg Downwards - Decrease degrees
 
 <ins><strong>Left Leg Bottom Servo (lAB)</strong></ins>\
+GPIO Pin - IO 15\
 Neutral Position - 95 degrees\
 Leg Upwards - Decrease degrees\
 Leg Downwards - Increase degrees
 
 <ins><strong>Pinion Servo (mL)</strong></ins>\
+GPIO Pin - IO 2\
 Neutral Position - 107 degrees\
 Leg Upwards - Decrease degrees\
 Leg Downwards - Increase degrees
 
-<ins><strong>Support Foot</strong></ins>\
+<ins><strong>Support Foot (bS)</strong></ins>\
+GPIO Pin - IO 4\
 Neutral Position - 90 degrees\
 Rotation angle between 20 degrees and 180 degrees
 
