@@ -57,6 +57,7 @@ Servo mL;
 These are the neutral positions for the servos. The Upper (rAT and lAT) and Lower (rAB and LAB) Legs should be 90 degrees to the ground when set to these neutral positions (nRAT, nRAB, nLAT and nLAB).
 The pinion servo angles should be mLD when lowered to its extreme (touching the ground) and mLU when raised to its upper limit (support foot raised up).  After you
 adjust the servo positions to these angles the rest of the angles will be calculated accurately.
+You can have a look at the image on this repo showing Dodge in its neutral position to have a clear idea. 
 */
 int nRAT = 60;
 int nRAB = 90;
