@@ -65,7 +65,7 @@ int nLAB = 95;
 int mLD = 165;
 int mLU = 50;
 
-int rotPos = 90;
+int rotPos = 90;  // Rotation angle of the support foot servo
 bool flip = false;
 bool rightFlip = false;
 bool leftFlip = true;
@@ -344,7 +344,7 @@ void setup() {
   lAB.setPeriodHertz(50);
   mL.setPeriodHertz(50);
 
-	bS.attach(4, 500, 2500);
+  bS.attach(4, 500, 2500);
   rAT.attach(12, 500, 2500);
   lAT.attach(13, 500, 2500);
   rAB.attach(14, 500, 2500);
