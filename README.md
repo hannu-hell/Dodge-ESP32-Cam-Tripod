@@ -11,7 +11,7 @@ Neutral Position - 60 degrees\
 Leg Upwards - Increase degrees\
 Leg Downwards - Decrease degrees
 
-<ins><strong>Left Leg Top Servo (lAT)</strong></ins>**\
+<ins><strong>Left Leg Top Servo (lAT)</strong></ins>\
 Neutral Position - 105 degrees\
 Leg Upwards - Decrease degrees\
 Leg Downwards - Increase degrees
